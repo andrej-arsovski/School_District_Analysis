@@ -9,6 +9,8 @@ This analysis is a follow up to previous work examining the performance of 15 Hi
 As a result of removing the math and reading scores from grade 9 students at Thomas High School, almost all measured categories showed small decreases. Betwwen the orginal study and this updated analysis the average math score for the district decreased from 79.0 to 78.9 while the average reading score did not change. The percent of students apssing math decreased from 75% to 74.8%, and the percentage passing reading from 85.8% to 85.7%. These in turn resulted in the overall passing rate decreasing from 65.2% to 64.9%.
 
 District summary from original study
+
+
 ![original_distric_summary](https://github.com/andrej-arsovski/School_District_Analysis/blob/master/resources/original_district_summary.png)
 
 New District Summary
